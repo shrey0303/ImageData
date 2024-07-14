@@ -1,4 +1,4 @@
-# Statistical Machine Learning Project
+# Image Data
 
 ---
 
